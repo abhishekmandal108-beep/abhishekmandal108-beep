@@ -1,58 +1,38 @@
 
-<!-- PROFILE HEADER -->
 <div align="center">
 
-# 👋 Hi, I'm Bittu Kumar
+# 👋 Hi, I'm Abhishek Mandal
 
-### AI & ML Developer | Python Programmer | IoT Enthusiast
+### 🎓 Student | Aspiring Developer | Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Solutions;Exploring+Machine+Learning;Developing+Flutter+Applications;Connecting+AI+with+IoT" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Learning+New+Technologies;Exploring+the+World+of+Coding;Growing+One+Step+at+a+Time" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 
-- 🎓 Computer Science Engineering Student (AI & ML)
-- 💻 Passionate about Python and Artificial Intelligence
-- 🤖 Interested in Machine Learning and Computer Vision
-- 📱 Building applications using Flutter
-- 🔌 Exploring IoT with Arduino, ESP32 and Raspberry Pi
-- 🌱 Always learning and building innovative projects
-- 🎯 Goal: Become an AI/ML Engineer
+- 🎓 I am a Computer Science student.
+- 💻 Interested in programming and technology.
+- 🌱 Currently learning coding and software development.
+- 🚀 Exploring new tools and technologies.
+- 🎯 Working to improve my programming skills.
+- 🤝 Interested in learning and collaborating on projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,dart,cpp,sql" />
+<img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
-### Frameworks & Technologies
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,fastapi,opencv,streamlit,tensorflow" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,raspberrypi,linux" />
-</p>
-
----
-
-## 💡 Featured Projects
-
-| Project | Description | Technology |
-|---|---|---|
-| FraudShield AI | AI-based fraud detection | Python, ML |
-| VAYU AI | Personal AI assistant | Flutter |
-| AgriScan AI | Smart crop quality analysis | Python, AI, IoT |
-| Saarthi AI | AI chatbot assistant | Python, AI |
-| Smart Fisheries | Smart fish farming system | ESP32, IoT |
-| FraudGraph AI | Financial transaction network analysis | Python, NetworkX |
 
 ---
 
@@ -60,35 +40,23 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=by272215-code&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=abhishekmandal108-beep&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by272215-code&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmandal108-beep&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=by272215-code&theme=tokyonight&hide_border=true" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmandal108-beep&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Learning
-
-- 🐍 HackerRank Python Basic Certification
-- 💻 Building practical AI/ML projects
-- 🔬 Working on research and innovation
-- 🌱 Continuously improving problem-solving skills
-
----
-
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/by272215-code">
+<a href="https://github.com/abhishekmandal108-beep">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/profile/by272215">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 </p>
 
@@ -96,10 +64,10 @@
 
 <div align="center">
 
-### 💬 "Turning Ideas into Intelligent Solutions"
+### ✨ Learning Today, Building Tomorrow!
 
 ⭐ Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=by272215-code&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=abhishekmandal108-beep&label=Profile%20Views&color=blue&style=flat" />
 
 </div>
